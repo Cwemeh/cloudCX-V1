@@ -14,8 +14,8 @@ import java.net.URI
 
 class Pusatfilm : MainAPI() {
 
-    override var mainUrl = "https://pf21.net"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    override var mainUrl = "https://new1.pusatfilm21info.com"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "Pusatfilm"
     override val hasMainPage = true

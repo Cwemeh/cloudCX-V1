@@ -17,8 +17,8 @@ import org.jsoup.nodes.Element
 
 class Ngefilm : MainAPI() {
 
-    override var mainUrl = "https://new30.ngefilm.site"
-	private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    override var mainUrl = "https://new39.ngefilm.site"
+	private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "Ngefilm"
     override val hasMainPage = true

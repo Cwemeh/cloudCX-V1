@@ -17,8 +17,8 @@ import org.json.JSONObject
 
 class Kawanfilm : MainAPI() {
 
-    override var mainUrl = "https://tv2.kawanfilm21.co"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    override var mainUrl = "https://web.kawanfilm21.co"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "Kawanfilm"
     override val hasMainPage = true

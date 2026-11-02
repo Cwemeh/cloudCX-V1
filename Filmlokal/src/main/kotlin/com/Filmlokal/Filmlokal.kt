@@ -10,8 +10,8 @@ import org.json.JSONObject
 import java.net.URI
 
 class Filmlokal : MainAPI() {
-    override var mainUrl = "https://jorivet.com"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    override var mainUrl = "https://94.26.35.65"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "Filmlokal"
     override val hasMainPage = true

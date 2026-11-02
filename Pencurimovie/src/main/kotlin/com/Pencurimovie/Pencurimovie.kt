@@ -12,8 +12,8 @@ import java.net.URI
 
 class Pencurimovie : MainAPI() {
 
-    override var mainUrl = "https://ww11.pencurimovie.sbs"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    override var mainUrl = "https://ww44.pencurimovie.baby"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "Pencurimovie"
     override val hasMainPage = true

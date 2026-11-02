@@ -35,12 +35,12 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/Asm0d3usX/CloudX")
-        authors = listOf("Asm0d3usX")
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/Cwemeh/cloudCX-V1")
+        authors = listOf("Cwemeh")
     }
 
     android {
-        namespace = "com.asm0d3usx"
+        namespace = "com.cwemeh"
 
         defaultConfig {
             minSdk = 26
@@ -61,7 +61,8 @@ subprojects {
                 freeCompilerArgs.addAll(
                     "-Xno-call-assertions",
                     "-Xno-param-assertions",
-                    "-Xno-receiver-assertions"
+                    "-Xno-receiver-assertions",
+                    "-Xskip-metadata-version-check"
                 )
                 allWarningsAsErrors.set(false)
             }

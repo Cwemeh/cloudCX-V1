@@ -11,7 +11,7 @@ import java.net.URI
 
 class WGFilm21 : MainAPI() {
     override var mainUrl = "https://alternatif3.wgfilm21.net"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "WGFilm21"
     override val hasMainPage = true

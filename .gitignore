@@ -1,20 +1,17 @@
 # Ignore IDE and editor files
 *.iml
-/.idea
-/.vscode
+.idea/
+.vscode/
 .DS_Store
 
 # Ignore build outputs
-/build
-**/build
-/captures
-.externalNativeBuild
-.cxx
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
 
 # Ignore local configuration
-/local.properties
-
-# Jangan ignore folder ini, agar tetap ikut ke repo
-!/.gradle/
-!/.kotlin/
-!/.github/
+local.properties
+.gradle/
+.kotlin/

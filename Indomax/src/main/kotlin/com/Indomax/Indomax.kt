@@ -11,7 +11,7 @@ import java.net.URI
 
 class Indomax : MainAPI() {
     override var mainUrl = "https://idmxl.ink"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "Indomax"
     override val hasMainPage = true

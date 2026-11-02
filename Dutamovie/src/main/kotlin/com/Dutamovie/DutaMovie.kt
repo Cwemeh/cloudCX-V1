@@ -10,8 +10,8 @@ import org.json.JSONObject
 import java.net.URI
 
 class DutaMovie : MainAPI() {
-    override var mainUrl = "https://offshorebankservices.com"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    override var mainUrl = "https://revertsite.com"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
 	private var directUrl: String? = null
     override var name = "Dutamovie"
     override val hasMainPage = true

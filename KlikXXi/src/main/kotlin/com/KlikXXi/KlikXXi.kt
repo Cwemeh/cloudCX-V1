@@ -11,7 +11,7 @@ import java.net.URI
 
 class KlikXXi : MainAPI() {
     override var mainUrl = "https://klikxxi.shop"
-    private val mainUrlJson = "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Website.json"
+    private val mainUrlJson = "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Website.json"
     private var directUrl: String? = null
     override var name = "KlikXXi"
     override val hasMainPage = true
