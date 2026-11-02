@@ -1,0 +1,20 @@
+{
+    "fileHash": "sha256-03fe4b3543f9752560fe41b95fe139941d9e34e2bef23f8081cebe41bc72d2bb",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Cwemeh/cloudCX-V1",
+    "fileSize": 16519,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Cwemeh"
+    ],
+    "tvTypes": [
+        "Movie",
+        "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Pencurimovie",
+    "description": "Pencurimovie \u2014 Streaming Film & Serial",
+    "url": "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Pencurimovie.cs3",
+    "name": "Pencurimovie"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "pluginLists":  [
+                        "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/plugins.json"
+                    ],
+    "description":  "Indonesian Movie \u0026 Anime Repository for CloudStream",
+    "name":  "cloudCX-V1",
+    "manifestVersion":  1
+}

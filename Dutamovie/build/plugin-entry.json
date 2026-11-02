@@ -1,0 +1,21 @@
+{
+    "fileHash": "sha256-e9d8a1fa6d2e0674ff57300830a61140473a24b8c41cd1b268b7e8f3528631a5",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Cwemeh/cloudCX-V1",
+    "fileSize": 27331,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Cwemeh"
+    ],
+    "tvTypes": [
+        "Movie",
+        "TvSeries",
+        "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "Dutamovie",
+    "description": "DutaMovie - Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Dutamovie.cs3",
+    "name": "Dutamovie"
+}

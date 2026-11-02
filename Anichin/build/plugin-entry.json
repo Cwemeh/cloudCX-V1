@@ -1,0 +1,21 @@
+{
+    "fileHash": "sha256-e2d880ca33ddcc9083c6ffd8d563b9f179a0bf04b42a43ebce6fc95f2441630e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Cwemeh/cloudCX-V1",
+    "fileSize": 16282,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Cwemeh"
+    ],
+    "tvTypes": [
+        "Anime",
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "Anichin",
+    "description": "Anichin - Nonton Donghua Anime Subtitle Indonesia Terbaru",
+    "url": "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Anichin.cs3",
+    "name": "Anichin"
+}

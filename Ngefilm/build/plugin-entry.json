@@ -1,0 +1,21 @@
+{
+    "fileHash": "sha256-bb2eb1ca9241129db9f8954aae49f5a8962a78b5021170ffb3474862bf68dc78",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Cwemeh/cloudCX-V1",
+    "fileSize": 21908,
+    "status": 1,
+    "language": "id",
+    "authors": [
+        "Cwemeh"
+    ],
+    "tvTypes": [
+        "AsianDrama",
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "Ngefilm",
+    "description": "Ngefilm - Streaming Movie and TV Series",
+    "url": "https://raw.githubusercontent.com/Cwemeh/cloudCX-V1/builds/Ngefilm.cs3",
+    "name": "Ngefilm"
+}
